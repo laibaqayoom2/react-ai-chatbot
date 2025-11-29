@@ -1,0 +1,68 @@
+PROFESSIONAL SUMMARY
+AI/ML Developer with hands-on experience in computer vision, NLP, and deep learning. Skilled in building production-ready ML systems using Python, TensorFlow, and PyTorch. Proven track record of developing high-accuracy models (99.5%) for real-world applications including object detection, facial recognition, and conversational AI.
+
+LaIba Qayoom
+Islamabad, Pakistan
+Email: laibaqayoom6@gmail.com
+GitHub: https://github.com/laibaqayoom2
+Portfolio: https://laibaqayoom2.github.io/
+
+TECHNICAL SKILLS
+ML/AI: Computer Vision, NLP, Deep Learning, Object Detection, Facial Recognition, Neural Networks, Model Optimization
+Frameworks: YOLOv5/v8, TensorFlow, PyTorch, scikit-learn, OpenCV, Keras, Hugging Face Transformers, spaCy, NLTK
+Programming: Python, C++, Java, JavaScript
+Backend/APIs: Flask, Django, REST APIs, FastAPI, MQTT
+Frontend: React.js, React Native, Angular, Flutter, JavaScript (ES6+), HTML5, CSS3, TailwindCSS
+Database: MySQL, Firebase, SQLite, Vector Databases
+Tools: Git/GitHub, Jupyter Notebook, Google Colab, Docker, VS Code
+Deployment: Firebase, Heroku, AWS, Model Serving, API Integration
+
+PROFESSIONAL EXPERIENCE
+
+Junior App Developer | Binate (Oct 2024 - Oct 2025)
+- Developed AI-powered mobile applications integrating ML models for real-time inference
+- Implemented backend APIs for ML model deployment and data processing pipelines
+
+Full Stack Developer Intern | Stackware (Jul 2024 - Sep 2024)
+- Developed cross-platform frontend interfaces using Qt framework
+- Built backend systems with C++ and Java implementing robust logic for IoT communication
+- Reduced GPS error rates by 60% through sensor data processing and ML algorithms
+- Implemented MQTT server for real-time transactions and message brokering
+
+Web Developer & Creative Head | Creative Marketics (Sep 2022 - Present)
+- Designed responsive websites using WordPress + custom code
+- Implemented SEO strategies boosting rankings + organic traffic
+- Improved performance metrics and loading speeds
+
+EDUCATION
+Bachelor in Computer Science (Sep 2021 - Sep 2025)
+Institute of Space Technology, Islamabad
+CGPA: 3.81/4.00 (Silver Medalist)
+
+PROJECTS
+
+AI-Powered Grocery Trolleys (IntelliCarts)
+Tech: Flutter, Python, Flask, Firebase, YOLOv5/v8, Google ML Kit
+- Real-time product recognition system achieving 99.5% accuracy
+- Flask APIs for ML inference + Firebase sync
+- Optimized ML model for mobile deployment
+
+AI Chatbot with NLP (Conversational AI)
+Tech: Python, Transformers, spaCy, Flask, React
+- Built chatbot using GPT-2/BERT with intent classification + entity recognition (95% accuracy)
+- Developed Flask REST API + React frontend
+- Implemented context-aware response system
+
+Sentiment Analysis System
+Tech: Python, NLTK, scikit-learn, Flask, TensorFlow
+- Achieved 92% accuracy on social media text classification
+- Built real-time sentiment prediction API and analytics dashboard
+
+Recommendation System
+Tech: Python, scikit-learn, pandas, Flask
+- Collaborative filtering engine with 85% precision in top-10 recommendations
+- Implemented user similarity + matrix factorization algorithms
+
+Image Classification (CNN)
+Tech: Python, TensorFlow, Keras, OpenCV
+- Achieved 94% accuracy using custom CNN + transfer learning (ResNet50, VGG16)
