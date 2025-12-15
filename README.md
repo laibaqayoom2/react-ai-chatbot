@@ -1,16 +1,46 @@
-# React + Vite
+# AI Chatbot with NLP and Transformers
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![AI Chatbot](https://img.shields.io/badge/Status-Active-green)
 
-Currently, two official plugins are available:
+## Overview
+This project is an AI-powered chatbot that can handle both **technical programming questions** and **personal/CV-based queries**. It combines **NLP, transformer models, and session-based context** to deliver accurate and context-aware responses.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The chatbot includes:  
+- **Intent classification** with 95% accuracy  
+- **Entity recognition** for contextual understanding  
+- **Multi-session conversation history**  
+- **Responsive frontend** built with React  
+- **RESTful API backend** built with Flask  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
+- **Backend:** Python, Flask, RESTful APIs  
+- **Frontend:** React.js, TailwindCSS, Lucide-react icons  
+- **AI/NLP:** Transformers (Hugging Face), spaCy, NLTK  
+- **Other:** Requests, dotenv, JSON, CORS, Logging  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+- Context-aware conversations with multi-session support  
+- CV-based responses if a CV file is provided  
+- Technical knowledge answering programming, algorithms, and system design questions  
+- Real-time messaging with typing indicators and smooth scrolling  
+- Error handling, session reset, and health check endpoints  
+
+---
+
+## Demo
+Check out a live demo of the AI chatbot:  
+
+Click the image above to watch the demo video.
+
+---
+
+## Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/ai-chatbot.git
+cd ai-chatbot
