@@ -1,4 +1,4 @@
-<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/27fea773-8d95-471e-9978-79670272018a" /><img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/29b1376e-658e-485e-b009-244870d7cfb1" /># AI Chatbot with NLP and Transformers
+# AI Chatbot with NLP and Transformers
 
 ![AI Chatbot](https://img.shields.io/badge/Status-Active-green)
 
