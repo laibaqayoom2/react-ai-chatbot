@@ -34,13 +34,8 @@ The chatbot includes:
 ## Demo
 Check out a live demo of the AI chatbot:  
 
+[![Watch Demo] (https://github.com/laibaqayoom2/react-ai-chatbot/blob/main/NLP%20Chatbot.mp)
+
 Click the image above to watch the demo video.
 
 ---
-
-## Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/ai-chatbot.git
-cd ai-chatbot
