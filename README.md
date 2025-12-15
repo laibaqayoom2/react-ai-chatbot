@@ -1,6 +1,8 @@
-# AI Chatbot with NLP and Transformers
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/27fea773-8d95-471e-9978-79670272018a" /><img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/29b1376e-658e-485e-b009-244870d7cfb1" /># AI Chatbot with NLP and Transformers
 
 ![AI Chatbot](https://img.shields.io/badge/Status-Active-green)
+
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/8f93c82f-9e3b-4353-aed6-1a4784e21f21" />
 
 ## Overview
 This project is an AI-powered chatbot that can handle both **technical programming questions** and **personal/CV-based queries**. It combines **NLP, transformer models, and session-based context** to deliver accurate and context-aware responses.
@@ -28,14 +30,5 @@ The chatbot includes:
 - Technical knowledge answering programming, algorithms, and system design questions  
 - Real-time messaging with typing indicators and smooth scrolling  
 - Error handling, session reset, and health check endpoints  
-
----
-
-## Demo
-Check out a live demo of the AI chatbot:  
-
-[![Watch Demo] (https://github.com/laibaqayoom2/react-ai-chatbot/blob/main/NLP%20Chatbot.mp4)
-
-Click the image above to watch the demo video.
 
 ---
