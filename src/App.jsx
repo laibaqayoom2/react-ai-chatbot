@@ -3,7 +3,7 @@ import { Send, Bot, User } from 'lucide-react';
 
 export default function AIChatbot() {
   const [messages, setMessages] = useState([
-    { type: 'bot', text: 'Hi! I\'m an AI chatbot. Ask me anything!' }
+    { type: 'bot', text: 'Hi! I\'m an AI chatbot. Ask me anything about Computer Science, coding or Laiba Qayoom!' }
   ]);
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
@@ -70,8 +70,7 @@ export default function AIChatbot() {
           <div className="flex items-center gap-3">
             <Bot className="w-8 h-8" />
             <div>
-              <h1 className="text-2xl font-bold">AI Chatbot</h1>
-              <p className="text-blue-100 text-sm">Powered by Claude AI</p>
+              <h1 className="text-2xl font-bold">CS Chatbot</h1>
             </div>
           </div>
         </div>
@@ -142,9 +141,6 @@ export default function AIChatbot() {
               Send
             </button>
           </div>
-          <p className="text-xs text-gray-500 mt-2 text-center">
-            This chatbot uses Claude AI for intelligent responses
-          </p>
         </div>
       </div>
     </div>
