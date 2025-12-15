@@ -34,7 +34,7 @@ The chatbot includes:
 ## Demo
 Check out a live demo of the AI chatbot:  
 
-[![Watch Demo] (https://github.com/laibaqayoom2/react-ai-chatbot/blob/main/NLP%20Chatbot.mp)
+[![Watch Demo] (https://github.com/laibaqayoom2/react-ai-chatbot/blob/main/NLP%20Chatbot.mp4)
 
 Click the image above to watch the demo video.
 
